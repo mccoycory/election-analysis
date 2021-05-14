@@ -11,7 +11,7 @@ total_votes = 0
 candidate_options= []
 candidate_votes = {}
 candidate_winner = ""
-winning_count = 0
+winning_count = 0 
 winning_percent = 0 
 
 with open(file_to_load) as election_data:
